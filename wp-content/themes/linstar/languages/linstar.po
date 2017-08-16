@@ -1,0 +1,1989 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:508
+msgid " &lt; Previous "
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:508
+msgid " Next &gt; "
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/settings/woo-functions.php:412
+msgid " Products"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/color_gradient/field_color_gradient.php:1
+msgid " To:"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid " to preview a font, then select your choice below."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.functions.php:87
+msgid "%1$s - %2$s "
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.functions.php:87
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: linstar/core/shortcodes/templates/single-post.php:24
+#: linstar/core/shortcodes/templates/default-loop.php:26
+msgid "%n comments"
+msgstr ""
+
+#. Text in function
+#: linstar/comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: linstar/image.php:19
+msgid "&larr; Previous"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/blog/field_blog.php:78
+#: linstar/options/fields/blog/field_blog.php:79
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:1123
+msgid ","
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:1123
+#: linstar/core/shortcodes/templates/home-onepage-news-list.php:1
+#: linstar/core/shortcodes/register.php:1
+msgid ", "
+msgstr ""
+
+#. Text in function
+#: linstar/core/shortcodes/templates/single-post.php:24
+#: linstar/core/shortcodes/templates/default-loop.php:26
+msgid "0 comments"
+msgstr ""
+
+#. Text in function
+#: linstar/core/shortcodes/templates/single-post.php:24
+#: linstar/core/shortcodes/templates/default-loop.php:26
+msgid "1 comment"
+msgstr ""
+
+#. Text in echo
+#: linstar/404.php:14
+msgid "404"
+msgstr ""
+
+#. Text in function
+#: linstar/options.php:1
+msgid "<p class=\"description\">This is a section created by adding a filter to the sections array, great to allow child themes, to add/remove sections from the options.</p>"
+msgstr ""
+
+#. Text in function
+#: linstar/options.php:1
+msgid "<p class=\"description\">general configuration options for theme</p>"
+msgstr ""
+
+#. Text in function
+#: linstar/options.php:1
+msgid "<p>This is the HTML which can be displayed before the form, it isnt required, but more info is always better. Anything goes in terms of markup here, any HTML.</p>"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:1123
+msgid "<span class=\"%1$s labl\">Tags: </span> %2$s"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:502
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: linstar/single.php:89
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Article"
+msgstr ""
+
+#. Text in function
+#: linstar/image.php:28
+msgid "<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:82
+msgid "<strong>Warning:</strong> these pages should not be the same!"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/blog/field_blog.php:74
+msgid "A <a href=\"%s\">static page</a> (select below)"
+msgstr ""
+
+#. Text in function
+#: linstar/options.php:1
+msgid "A Section added by hook"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:767
+msgid "AND"
+msgstr ""
+
+#. Text in function
+#: linstar/author.php:44
+msgid "About %s"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/login.php:19
+msgid "Account Login"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/multi_text/field_multi_text.php:1
+msgid "Add More"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Add to cart"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Added"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/single-product/tabs/additional-information.php:1
+msgid "Additional Information"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:116
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Address Footer 3"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/shortcodes/templates/works-loop.php:139
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:783
+msgid "All (no hierarchical)"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:784
+msgid "All Hierarchical"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/import_data/field_import_data.php:39
+msgid "All theme options + widgets"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:22
+msgid "Already Registered?"
+msgstr ""
+
+#. Text in echo
+#: linstar/category.php:60
+#: linstar/tag.php:45
+#: linstar/archive.php:57
+#: linstar/author.php:72
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/page-right.php:61
+#: linstar/index.php:50
+#: linstar/templates/page-left.php:67
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears at Footer 3"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on Archive Products."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on Single Product detail page"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 1 at Footer"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 1 at Footer 1"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 1 at Footer 2"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 1 at Footer 7"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 2 at Footer"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 2 at Footer 1"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 2 at Footer 2"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 2 at Footer 7"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 3 at Footer"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 3 at Footer 1"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 3 at Footer 2"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 3 at Footer 7"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 4 at Footer"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 4 at Footer 1"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 4 at Footer 2"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on column 5 at Footer 1"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Appears on posts and pages at left-side or right-side except the optional Front Page template."
+msgstr ""
+
+#. Text in function
+#: linstar/core/widgets/xcode.php:107
+msgid "Arbitrary text, HTML, Javascript, CSS and PHP Code"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Archive Products Sidebar"
+msgstr ""
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#. Text in function
+#: linstar/core/shortcodes/register.php:1
+msgid "Article not found"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/sample/king.importer.php:541
+msgid "Assign Authors"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:760
+msgid "Attribute:"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:651
+msgid "Attributes"
+msgstr ""
+
+#. Text in echo
+#: linstar/single-our-works.php:128
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: linstar/author.php:29
+msgid "Author Archives: %s"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Availability"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/king.forgot.php:36
+msgid "Back to login"
+msgstr ""
+
+#. Text in echo
+#: linstar/archive.php:31
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:89
+msgid "Blog Layout"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:141
+msgid "Blog pages show at most"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Breadcrumb Padding Bottom"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Breadcrumb Padding Top"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-reset-widget.php:87
+msgid "Button Label"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/footer/footer-one-page.php:20
+#: linstar/templates/footer/footer-8.php:20
+msgid "CALL US"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/footer/footer-3.php:18
+msgid "CONTACT US"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/header/header-2.php:28
+#: linstar/templates/header/header-23.php:27
+msgid "Call Us"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/header/header-12.php:25
+msgid "Call Us Now!"
+msgstr ""
+
+#. Text in function
+#: linstar/comments.php:69
+msgid "Cancel Reply"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/settings/woo-functions.php:427
+msgid "Cart"
+msgstr ""
+
+#. Text in echo
+#: linstar/single-our-works.php:112
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:110
+msgid "Categories for blog"
+msgstr ""
+
+#. Text in function
+#: linstar/category.php:42
+msgid "Category Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/settings/woo-functions.php:407
+#: linstar/woocommerce/settings/woo-functions.php:445
+msgid "Checkout"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:99
+msgid "City"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/compare-product/woocompare-widget.php:38
+msgid "Clear all"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.class.php:629
+msgid "Click to leave a comment"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/compare-product/templates.php:66
+msgid "Close window [X]"
+msgstr ""
+
+#. Text in function
+#: linstar/core/widgets/xcode.php:107
+msgid "Code"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:774
+msgid "Color"
+msgstr ""
+
+#. Text in echo
+#: linstar/comments.php:54
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: linstar/comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/compare-product/woocompare-widget.php:39
+msgid "Compare"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:40
+msgid "Confirm Password"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/footer/footer-one-page-2.php:22
+msgid "Contact"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:104
+msgid "Country"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:126
+msgid "Create Account"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/widgets/xcode.php:100
+msgid "Custom Class:"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/compare-product/woocompare-widget.php:1
+msgid "DEVN Woo Compare Widget"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:806
+msgid "DEVN Woo Filter Widget"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/filter-product/widgets/king-filter-reset-widget.php:1
+msgid "DEVN Woo Reset Filter Widget"
+msgstr ""
+
+#. Text in function
+#: linstar/archive.php:25
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/settings/woo-functions.php:412
+#: linstar/single-our-works.php:102
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:60
+msgid "Day"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/settings/woo-functions.php:412
+msgid "Default Order"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: linstar/core/sample/parsers.php:1
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid "Dev Mode Info"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "Disabled user register."
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:781
+msgid "Display (default All):"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Display Breadcrumb"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/sample/king.importer.php:557
+msgid "Download and import file attachments"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/export_data/field_export_data.php:34
+msgid "Download theme options + widgets"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:776
+msgid "Dropdown"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Dynamic Sidebar - Manage via theme-panel"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/footer/footer-one-page-2.php:36
+msgid "E-mail"
+msgstr ""
+
+#. Text in function
+#: linstar/image.php:41
+#: linstar/content.php:73
+#: linstar/core/king.functions.php:68
+#: linstar/core/king.functions.php:97
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:31
+#: linstar/comments.php:69
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/header/header-2.php:36
+msgid "Email Us"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "Empty user login"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "Enter a correct email."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "Enter a validate email."
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/king.forgot.php:41
+msgid "Enter your Email"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:573
+msgid "Facebook"
+msgstr ""
+
+#. Text in echo
+#: linstar/content.php:78
+msgid "Featured"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/footer/footer-3.php:23
+msgid "Feel free to talk to our online representative at any time you please using our Live Chat system on our website or one of the instant messaging programs."
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:52
+msgid "Female"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:806
+msgid "Filter products ajax widget!"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:236
+msgid "Filters List:"
+msgstr ""
+
+#. Text in function
+#: linstar/core/shortcodes/register.php:1329
+msgid "Flex child slider"
+msgstr ""
+
+#. Text in function
+#: linstar/core/widgets/flickr.php:1
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 1 Column 1"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 1 Column 2"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 1 Column 3"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 1 Column 4"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 1 Column 5"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 2 Column 1"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 2 Column 2"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 2 Column 3"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 2 Column 4"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 7 Column 1"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 7 Column 2"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer 7 Column 3"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer Column 1"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer Column 2"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer Column 3"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Footer Column 4"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.functions.php:215
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:151
+#: linstar/options/fields/blog/field_blog.php:152
+msgid "For each article in a feed, show"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/login.php:36
+msgid "Forgot Password?"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/king.forgot.php:35
+msgid "Forgot your password"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/color_gradient/field_color_gradient.php:1
+msgid "From:"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:63
+#: linstar/options/fields/blog/field_blog.php:66
+msgid "Front page displays"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/blog/field_blog.php:78
+msgid "Front page: %s"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:153
+msgid "Full text"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:48
+msgid "Gender"
+msgstr ""
+
+#. Text in function
+#: linstar/options.php:1
+msgid "General Settings"
+msgstr ""
+
+#. Text in echo
+#: linstar/404.php:25
+msgid "Go to Back"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid "Google Web Fonts directory"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:589
+msgid "Google+"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/blog-timeline.php:39
+#: linstar/templates/blog-timeline.php:42
+msgid "History Timeline"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/king.register.php:21
+#: linstar/templates/king.login.php:21
+#: linstar/templates/blog-timeline.php:41
+#: linstar/templates/breadcrumb/default.php:1
+#: linstar/templates/king.forgot.php:21
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:121
+msgid "I agree the User Agreement and<a href=\"#\">Terms &amp; Condition.</a>"
+msgstr ""
+
+#. Text in function
+#: linstar/core/sample/king.importer.php:544
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/import_data/field_import_data.php:63
+msgid "If you are looking for importing Sample Demos, Please go to section: "
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in echo
+#: linstar/image.php:18
+msgid "Image navigation"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/sample/king.importer.php:554
+msgid "Import Attachments"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Import Demos"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/import_data/field_import_data.php:50
+msgid "Import Now"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/wishlist/templates/wishlist.php:132
+msgid "In Stock"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "In stock"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/settings/woo-functions.php:429
+msgid "Item(s)"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:775
+msgid "Label"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Large Small"
+msgstr ""
+
+#. Text in function
+#: linstar/comments.php:69
+msgid "Leave a Reply"
+msgstr ""
+
+#. Text in function
+#: linstar/comments.php:69
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#. Text in function
+#: linstar/options.php:1
+msgid "Limit logo\\'s size. Eg: 60"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:667
+msgid "Link submit"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:597
+msgid "Linkedin"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:773
+msgid "List"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:22
+msgid "Log In"
+msgstr ""
+
+#. Text in function
+#: linstar/comments.php:69
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/king.login.php:21
+#: linstar/templates/king.forgot.php:21
+#: linstar/templates/king.forgot.php:36
+msgid "Login"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/king.login.php:18
+#: linstar/templates/king.forgot.php:18
+msgid "Login Form"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/login.php:41
+msgid "Login Now!"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#. Text in function
+#: linstar/options.php:1
+msgid "Logo Max Height"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/footer/footer-one-page.php:26
+#: linstar/templates/footer/footer-8.php:26
+msgid "Mail Us"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Main Sidebar"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/header/header-23.php:32
+msgid "Make an Appointment"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:50
+msgid "Male"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/header/header-12.php:34
+#: linstar/templates/header/header-8.php:27
+#: linstar/templates/header/header-10.php:27
+#: linstar/templates/header/header-13.php:27
+#: linstar/templates/header/header-5.php:27
+#: linstar/templates/header/header-19.php:27
+#: linstar/templates/header/header-9.php:27
+#: linstar/templates/header/header-onepage-1.php:23
+#: linstar/templates/header/header-17.php:27
+#: linstar/templates/header/header-4.php:27
+#: linstar/templates/header/header-2.php:55
+#: linstar/templates/header/default.php:59
+#: linstar/templates/header/header-18.php:27
+#: linstar/templates/header/header-15.php:27
+#: linstar/templates/header/header-16.php:27
+#: linstar/templates/header/header-3.php:27
+#: linstar/templates/header/header-7.php:27
+#: linstar/templates/header/header-14.php:27
+#: linstar/templates/header/header-6.php:27
+#: linstar/templates/header/header-1.php:60
+#: linstar/templates/header/header-onepage-leftmenu.php:18
+#: linstar/templates/header/header-11.php:44
+msgid "Menu"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:71
+msgid "Month"
+msgstr ""
+
+#. Text in function
+#: linstar/archive.php:27
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/shortcodes/templates/works-loop.php:206
+msgid "More Detail"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:44
+#: linstar/woocommerce/settings/woo-functions.php:412
+#: linstar/single-our-works.php:95
+#: linstar/comments.php:69
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: linstar/comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:505
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: linstar/image.php:20
+msgid "Next &rarr;"
+msgstr ""
+
+#. Text in function
+#: linstar/single.php:90
+msgid "Next Article<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/page-right.php:46
+#: linstar/index.php:35
+#: linstar/templates/page-left.php:52
+msgid "No posts to display"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/compare-product/templates.php:91
+msgid "No products added in the compare table."
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "No products to compare"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/wishlist/templates/wishlist.php:154
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/login.php:20
+msgid "Not member yet?"
+msgstr ""
+
+#. Text in echo
+#: linstar/category.php:56
+#: linstar/templates/page-right.php:57
+#: linstar/index.php:46
+#: linstar/templates/page-left.php:63
+#: linstar/search.php:44
+#: linstar/archive.php:53
+#: linstar/author.php:68
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:768
+msgid "OR"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.functions.php:215
+msgid "One Page Menu"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.functions.php:215
+msgid "One Page Menu 2nd"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:785
+msgid "Only Parent"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/import_data/field_import_data.php:42
+msgid "Only theme options"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/import_data/field_import_data.php:45
+msgid "Only widgets data"
+msgstr ""
+
+#. Text in echo
+#: linstar/404.php:16
+msgid "Oops... Page Not Found!"
+msgstr ""
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid "Options"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/coming-soon.php:96
+msgid "Our website is under construction. We'll be here soon with our new awesome site. Get best experience with this one."
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/wishlist/templates/wishlist.php:132
+msgid "Out of Stock"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Overlap: The header will cover up anything beneath it."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:550
+msgid "Page %s of %s"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Page Title"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Page Title will display on Breadcrumn instead default title."
+msgstr ""
+
+#. Text in function
+#: linstar/image.php:90
+#: linstar/content.php:82
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/login.php:28
+#: linstar/templates/register.php:35
+msgid "Password"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "Password does not match."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "Password too short."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:955
+#: linstar/core/king.class.php:929
+#: linstar/core/king.class.php:990
+#: linstar/content.php:70
+#: linstar/post-related.php:56
+#: linstar/post-related.php:61
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.functions.php:68
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "Please check your email and reset your password."
+msgstr ""
+
+#. Text in echo
+#: linstar/core/widgets/tabbed.php:21
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:565
+msgid "Position"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.class.php:499
+msgid "Post navigation"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/shortcodes/templates/single-post.php:24
+#: linstar/core/shortcodes/templates/default-loop.php:22
+msgid "Posted"
+msgstr ""
+
+#. Text in function
+#: linstar/core/shortcodes/templates/teaser-loop.php:15
+#: linstar/core/shortcodes/templates/home-news-1-column.php:69
+#: linstar/core/shortcodes/templates/home-news-3-columns.php:37
+#: linstar/core/shortcodes/templates/home-news-4-columns.php:28
+#: linstar/core/shortcodes/templates/single-post.php:29
+#: linstar/core/shortcodes/templates/home-onepage-news-list.php:62
+#: linstar/core/shortcodes/templates/home-news-2-columns.php:33
+#: linstar/core/shortcodes/templates/list-loop.php:23
+#: linstar/core/shortcodes/templates/home-news-3-columns-2.php:41
+#: linstar/core/shortcodes/templates/default-loop.php:29
+#: linstar/core/shortcodes/templates/home-news-slider.php:41
+#: linstar/core/shortcodes/templates/home-news-3-columns-3.php:27
+msgid "Posts not found"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/blog/field_blog.php:79
+msgid "Posts page: %s"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:642
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+#: linstar/woocommerce/settings/woo-functions.php:412
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Pricing Tables Fields"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.functions.php:215
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/colorStyle/field_colorStyle.php:85
+msgid "Primary css file has been located at: /wp_content/themes/__name__/assets/css/colors/color-primary.css"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/footer/footer-9.php:75
+#: linstar/templates/footer/footer-7.php:59
+#: linstar/templates/footer/footer-one-page.php:74
+#: linstar/templates/footer/footer-8.php:93
+#: linstar/templates/footer/footer-7.2.php:59
+#: linstar/templates/footer/default.php:68
+#: linstar/templates/footer/footer-2.php:66
+#: linstar/templates/footer/footer-3.php:66
+#: linstar/templates/footer/footer-7.3.php:59
+#: linstar/templates/footer/footer-4.php:40
+#: linstar/templates/footer/footer-5.php:76
+msgid "Privacy Policy"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+msgid "Product Comparison"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/single-product/tabs/description.php:1
+msgid "Product Description"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/wishlist/templates/wishlist.php:82
+msgid "Product Name"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/settings/woo-functions.php:412
+msgid "Products"
+msgstr ""
+
+#. Text in echo
+#: linstar/single-our-works.php:49
+msgid "Project Description"
+msgstr ""
+
+#. Text in echo
+#: linstar/single-our-works.php:91
+msgid "Project Details"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Project\\'s Link"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:765
+msgid "Query Type:"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/shortcodes/templates/home-news-2-columns.php:30
+msgid "READ MORE"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:21
+msgid "REGISTRATION"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:525
+msgid "Rate"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/single-product/rating.php:23
+msgid "Rated %s out of 5"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/settings/woo-functions.php:412
+msgid "Rating"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/shortcodes/templates/our-team.php:210
+msgid "Read Full Bio"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/shortcodes/templates/home-news-3-columns.php:34
+#: linstar/core/shortcodes/templates/home-news-4-columns.php:24
+#: linstar/core/shortcodes/templates/our-team.php:184
+#: linstar/core/shortcodes/templates/our-team.php:102
+#: linstar/core/shortcodes/elements.php:47
+#: linstar/core/shortcodes/templates/home-news-slider.php:38
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: linstar/content.php:82
+msgid "Read more &#187;"
+msgstr ""
+
+#. Text in function
+#: linstar/templates/page-right.php:50
+#: linstar/index.php:39
+#: linstar/templates/page-left.php:56
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#. Text in echo
+#: linstar/core/widgets/tabbed.php:22
+msgid "Recent"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/king.register.php:21
+msgid "Register"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/king.register.php:18
+msgid "Register Form"
+msgstr ""
+
+#. Text in echo
+#: linstar/post-related.php:42
+msgid "Related Articles"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/single-product/related.php:38
+msgid "Related Products"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/login.php:35
+msgid "Remember Me"
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/multi_text/field_multi_text.php:1
+#: linstar/woocommerce/compare-product/templates.php:99
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:589
+msgid "Remove"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/wishlist/templates/wishlist.php:106
+msgid "Remove this product"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.functions.php:109
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/filter-product/widgets/king-filter-reset-widget.php:1
+msgid "Reset All Filters"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/filter-product/widgets/king-filter-reset-widget.php:1
+msgid "Reset all filters setted by DEVN Filter Widget"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/king.forgot.php:46
+msgid "Reset password!"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/sample.php:108
+msgid "Sample Data"
+msgstr ""
+
+#. Text in function
+#: linstar/options/options.php:1
+msgid "Save Changes"
+msgstr ""
+
+#. Text in echo
+#: linstar/searchform.php:7
+#: linstar/searchform.php:8
+#: linstar/searchform.php:9
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: linstar/search.php:24
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Select Footer"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Select Header"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Select Sidebar"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:1
+msgid "Select a country&hellip;"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Select footer to display for only this page. This path has located /templates/footer/__file__"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:1
+msgid "Sending user info, please wait..."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Set the padding bottom with content of the breadcrumb. Ex: 10"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Set the padding top with content of the breadcrumb. Ex: 10"
+msgstr ""
+
+#. Text in echo
+#: linstar/single.php:40
+msgid "Share this Post"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/settings/woo-functions.php:412
+msgid "Show"
+msgstr ""
+
+#. Text in echo
+#: linstar/single-our-works.php:55
+msgid "Show More"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/widgets/xcode.php:93
+msgid "Show Title:"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/settings/woo-functions.php:412
+msgid "Show details"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/login.php:20
+msgid "Sign Up"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:1007
+msgid "Single Product Sidebar"
+msgstr ""
+
+#. Text in echo
+#: linstar/404.php:18
+msgid "Sorry the Page Could not be Found here."
+msgstr ""
+
+#. Text in echo
+#: linstar/search.php:49
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#. Text in function
+#: linstar/core/sample/king.importer.php:247
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/settings/woo-functions.php:412
+msgid "Sort by"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Staff Profiles"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/wishlist/templates/wishlist.php:84
+msgid "Stock Status"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/sample/king.importer.php:561
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: linstar/comments.php:69
+msgid "Submit Comment"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:154
+msgid "Summary"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:147
+msgid "Syndication feeds show the most recent"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/widgets/tabbed.php:23
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: linstar/core/shortcodes/templates/our-team.php:213
+msgid "Teams not found"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/footer/footer-one-page-2.php:35
+msgid "Telephone"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/footer/footer-9.php:68
+#: linstar/templates/footer/footer-7.php:52
+#: linstar/templates/footer/footer-one-page.php:67
+#: linstar/templates/footer/footer-8.php:86
+#: linstar/templates/footer/footer-7.2.php:52
+#: linstar/templates/footer/default.php:61
+#: linstar/templates/footer/footer-2.php:59
+#: linstar/templates/footer/footer-3.php:59
+#: linstar/templates/footer/footer-7.3.php:52
+#: linstar/templates/footer/footer-4.php:33
+#: linstar/templates/footer/footer-5.php:69
+msgid "Terms of Use"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Testimonial Options"
+msgstr ""
+
+#. Text in function
+#: linstar/core/shortcodes/templates/testimonials.php:475
+msgid "Testimonials not found"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:659
+msgid "Text button submit"
+msgstr ""
+
+#. Text in function
+#: linstar/core/sample/king.importer.php:247
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#. Text in function
+#: linstar/core/sample/king.importer.php:247
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#. Text in function
+#: linstar/options/fields/google_webfonts/field_google_webfonts.php:1
+msgid "The fonts provided below are free to use custom fonts from the"
+msgstr ""
+
+#. Text in function
+#: linstar/woocommerce/compare-product/woocompare-widget.php:1
+msgid "The widget show the list of products added in the compare table."
+msgstr ""
+
+#. Text in function
+#: linstar/core/sample/parsers.php:1
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#. Text in function
+#: linstar/core/sample/king.importer.php:247
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#. Text in function
+#: linstar/core/sample/parsers.php:1
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "This email address is already registered."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "This email not exist in my system."
+msgstr ""
+
+#. Text in function
+#: linstar/options/validation/color/validation_color.php:1
+msgid "This field must be a valid color value."
+msgstr ""
+
+#. Text in function
+#: linstar/options/validation/date/validation_date.php:1
+msgid "This field must be a valid date."
+msgstr ""
+
+#. Text in echo
+#: linstar/comments.php:14
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "This username is already registered."
+msgstr ""
+
+#. Text in function
+#: linstar/options.php:1
+msgid "This will be display as logo at header of every page"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "This will be display as logo at header of only this page"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/compare-product/woocompare-widget.php:56
+#: linstar/woocommerce/compare-product/woocompare-frontend.php:1
+#: linstar/woocommerce/filter-product/widgets/king-filter-reset-widget.php:81
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:754
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/widgets/xcode.php:87
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/sample/king.importer.php:542
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/header/header-onepage-4.php:19
+#: linstar/templates/header/header-onepage-3.php:21
+msgid "Toggle navigation"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.functions.php:215
+msgid "Top Navigation"
+msgstr ""
+
+#. Text in echo
+#: linstar/404.php:20
+msgid "Try using the button below to go to main page of the site"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:581
+msgid "Twitter"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/filter-product/widgets/king-filter-widget.php:771
+msgid "Type:"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/wishlist/templates/wishlist.php:83
+msgid "Unit Price"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Upload Breadcrumb Background Image"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+#: linstar/options.php:1
+msgid "Upload Logo"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+#: linstar/options.php:1
+msgid "Upload new or from media library to use as your logo. We recommend that you use images without borders and throughout."
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.actions.php:232
+msgid "Upload your Breadcrumb background image for this page."
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:28
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/login.php:25
+msgid "Username / Email"
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/settings/woo-functions.php:406
+#: linstar/woocommerce/settings/woo-functions.php:444
+msgid "View Cart"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:584
+msgid "View all posts by %s"
+msgstr ""
+
+#. Text in echo
+#: linstar/single-our-works.php:142
+msgid "Visit Site"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/import_data/field_import_data.php:54
+msgid "WARNING! This will overwrite all existing option values, please proceed with caution!"
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/coming-soon.php:96
+msgid "We\\'re Launching Soon"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.actions.php:516
+#: linstar/comments.php:69
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: linstar/core/shortcodes/templates/works-loop.php:312
+msgid "Works not found"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "Wrong username or password."
+msgstr ""
+
+#. Text in echo
+#: linstar/templates/register.php:84
+msgid "Year"
+msgstr ""
+
+#. Text in function
+#: linstar/archive.php:29
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: linstar/templates/login.php:1
+#: linstar/templates/register.php:1
+msgid "You are logged in"
+msgstr ""
+
+#. Text in function
+#: linstar/comments.php:69
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in function
+#: linstar/options/validation/no_html/validation_no_html.php:1
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#. Text in function
+#: linstar/options/validation/no_special_chars/validation_no_special_chars.php:1
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#. Text in function
+#: linstar/options/validation/comma_numeric/validation_comma_numeric.php:1
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#. Text in function
+#: linstar/options/validation/numeric/validation_numeric.php:1
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#. Text in function
+#: linstar/options/validation/url/validation_url.php:1
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#. Text in function
+#: linstar/options/validation/email/validation_email.php:1
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#. Text in echo
+#: linstar/core/king.functions.php:101
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:69
+msgid "Your latest posts"
+msgstr ""
+
+#. Text in echo
+#: linstar/core/shortcodes/templates/pricing-table.php:176
+msgid "for you always"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:148
+msgid "items"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.user.php:138
+msgid "login successful, redirecting..."
+msgstr ""
+
+#. Text in echo
+#: linstar/woocommerce/single-product/rating.php:25
+msgid "out of 5"
+msgstr ""
+
+#. Text in echo
+#: linstar/options/fields/blog/field_blog.php:143
+msgid "posts"
+msgstr ""
+
+#. Text in function
+#: linstar/content.php:82
+msgid "read more &#187;"
+msgstr ""
+
+#. Text in function
+#: linstar/core/king.class.php:633
+#: linstar/core/shortcodes/register.php:1
+msgid "template not found"
+msgstr ""

@@ -1,0 +1,874 @@
+.dropdown.minicart-nav > a > span, 
+.msp-preset-btn-160,.sectitile .line, 
+.king-tabs.detached ul.king-tabs-nav li.ui-tabs-active a, 
+.king-tabs.detached ul.king-tabs-nav a:hover,
+#king_cart .remove:hover,
+#searchform #searchsubmit, .woocommerce-product-search input[type="submit"],
+.header-style-2 ul.nav>li>a.active,
+.msp-preset-btn-161,
+.woocommerce span.onsale, .woocommerce-page span.onsale,
+.product .cart-loading,
+body .cforms_sty3 .button,
+ul.tabs li.active, html ul.tabs li.active a, html ul.tabs li.active a:hover
+{
+	background-color: {color};	
+}
+a, #king_cart > p.total .amount,
+.featured_section13 .cirbox i:hover,
+.featured_section22 .one_fourth_big .element-icon,
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.current-menu-parent>a,
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover,
+.acc-trigger a, .acc-trigger a:hover,
+.king-wishlist-add-to-wishlist a i,
+.navbar-default .navbar-nav>.current-menu-parent>a,
+.single-product .summary  .price ins span
+{
+	color: {color};
+}
+.woocommerce-product-search .btn,
+.king-switch-layout .fa-th:hover:before, .king-switch-layout .fa-list:hover:before, .king-switch-layout .active .fa:before,
+.woocommerce span.price ins .amount, .woocommerce span.price .amount,
+.widget_shopping_cart ul.product_list_widget li .amount,
+.product-buttons .button.product_type_simple:hover, .product-buttons .button.product_type_variable:hover, .product-buttons .show_details_button:hover,
+.king-wishlist-add-to-wishlist a i,
+.summary a.compare i,
+.woocommerce .star-rating span::before,
+.woocommerce-tabs #commentform p.stars span a, .woocommerce-tabs #commentform p.stars span a:after:hover,
+.woocommerce .star-rating span::before,
+.woocommerce .star-rating::before,
+.comment-form .comment-form-rating p.stars a:hover:after,
+#cart-place .cart .cart-content a
+{
+	color: {color} !important;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range,
+.order-dropdown ul li a:hover,
+.woocommerce-tabs ul.tabs li.active, .woocommerce-tabs ul.tabs li:hover,
+.woocommerce .product ul.tabs li.active a, .woocommerce .product ul.tabs li:hover a,
+.tags li a:hover, .tagcloud a:hover
+{
+	background-color: {color} !important;
+}
+.king_magnifier_zoom_magnifier,
+.woocommerce-page a.zoom img:hover,
+.woocommerce-page  .input-text:hover
+{
+	border-color: {color};
+}
+.king_magnifier_lens{
+	outline: 1px solid {color};
+}
+
+.sitecolor {
+	color: {color};
+}
+.header ul.nav>li>a.active {
+	color:{color};
+}
+.list-unstyled a:hover {
+    color: {color};
+}
+
+.header ul.nav>li>a:hover.active {
+	color:{color};
+}
+
+.header ul.nav>li>a:hover {
+	color:{color};
+}
+.header ul.nav .dropdown li a em {
+	background: {color};
+}
+.header ul.nav .dropdown li a em.soon {
+	background: #ccc;
+}
+.leftmenuv1 .float-menu a:hover, .leftmenuv1 .float-menu .active a{
+	color:{color};
+}
+/*****FUNCTION********/
+@mixin background-opacity($color, $opacity: 0.3) {
+    background: $color; /* The Fallback */
+    background: rgba($color, $opacity);
+}
+/*STYLE SLIDER*/
+.ls-l.sbut2, .ls-preview .sbut2, .ls-slide .sbut4, .ls-preview .sbut4, .ls-slide .sbut6, .ls-preview .sbut6,.ls-slide .sbut5, .ls-preview .sbut5,.ls-slide .sbut7, .ls-preview .sbut7,.ls-slide .sbut8, .ls-preview .sbut8,.ls-slide .sbut13, .ls-preview .sbut13,.ls-slide .sbut14, .ls-preview .sbut14,.ls-slide .sbut15, .ls-preview .sbut15 {
+	background-color: {color};
+}
+.ls-l.sbut3, .ls-preview .sbut3, body .ls-l.sbut3.darkc{
+	background: {color}!important;
+}
+.ls-l.sbut2.white:hover, .ls-preview .sbut2.white:hover{
+	background-color: {color};
+}
+.ls-slide .sbut10, .ls-preview .sbut10{
+	color:{color};
+}
+.ls-slide .sbut11:hover, .ls-preview .sbut11:hover{
+	background-color: {color};
+	color:#fff;
+}
+.ls-slide .sbut12, .ls-preview .sbut12{
+	color:{color};
+}
+.ls-slide .sbut12:hover, .ls-preview .sbut12:hover{
+	background-color: {color};
+}
+
+.sbtex h1 strong{
+	background-color: {color};
+}
+
+/**COLORS**/
+
+.color1, .color3, .color2, .color4{
+	color: {color};
+}
+
+/**Buttons**/
+.button.one, .button.three{
+	color:#fff;
+	background-color: {color};
+}
+
+.button.two:hover, .button.four:hover{
+	color: {color};
+}
+
+.button.five:hover{
+	background-color: {color};
+}
+.button.fifteen{
+	color:{color};
+	border:2px solid {color};
+}
+.button.nine{
+	background-color: {color};
+}
+.button.sixteen.two:hover, .button.sixteen.two.active{
+	background: {color};
+	border:1px solid {color};
+}
+.button.sixteen:hover,
+.button.sixteen.active {
+	background: {color};
+	border:1px solid {color};
+}
+.button.ten{
+	background: {color};
+}
+.king-form .btn{
+	background: {color};
+	border-color: {color};
+}
+.button.twenty:hover {
+	background: {color};
+}
+.button.twentyone{
+	color: {color};
+    border: 1px solid {color};
+}
+.button.twentyone:hover,.button.seventeen:hover {
+	background: {color};
+}
+.counters7 i, .counters7.two i{
+	color: {color};
+}
+.button.eighteen, .button.twelve, .button.twentyseven{
+	background: {color};
+}
+footer .king-form .button{
+	background: {color};
+}
+.button.thirteen{
+	background: {color};
+	color:#fff;
+}
+.button.twentythree, .button.twentytwo:hover{
+	background: {color};
+}
+.button.twentyfive:hover {
+	color: {color};
+}
+.button.thiry{
+	color: {color};
+	border:1px solid {color};
+}
+.button.thiry:hover{
+	background: {color};
+}
+.button.thone button, a.button.thone{
+	background: {color};
+}
+/**Division**/
+.hsmline2, .hsmline6{
+	background-color: {color};	
+}
+.title30 .line{
+	background: {color};
+}
+body .vline{
+	background: {color}!important;
+}
+/****Header 2***/
+body .header.header2{
+	background-color:{color};
+}
+body .header.header2 ul.nav>li>a.active{
+	color:#fff;
+}
+body .header.header2 .navbar-default .navbar-nav>li>a:focus, body .header.header2 .navbar-default .navbar-nav>li>a:hover{
+	background:rgba(255,255,255,.3);
+	color:#fff;
+}
+body .header.header8 ul.nav>li>a.active, body .header.header8 ul.nav>li.current-menu-parent>a{
+	border-top:2px solid {color};
+}
+body .header.header8 .navbar-default .navbar-nav>li.buy-now>a:hover{
+	color: #fff;
+	background: {color};
+}
+body .header.header11 ul.nav>li>a.active, body .header.header11 ul.nav>li.current-menu-parent>a{
+	color: #fff;
+	background: {color};
+}
+body .header.header18 ul.nav>li>a.active, body .header.header18 ul.nav>li.current-menu-parent>a{
+	color: #fff;
+	background: {color};
+}
+
+body .header21 .logo3{
+	background: {color};
+}	
+body .onepage2 #menu li a:hover{
+	background: {color};
+}
+body .header21 .top_nav3 a:hover {
+	color: {color};
+}
+.top_nav3 a:hover i {
+	color: {color};
+	border: 1px solid {color};
+}
+.onepage4 .navbar-brand{
+	background: {color};
+}
+body .onepage4 .navbar-default .navbar-nav>li.buy-now>a{
+	background: {color};
+	color:#fff;
+}
+body .onepage4 .navbar-default .navbar-nav>li.buy-now>a:hover{
+	background: #fff;
+	color:{color};
+}
+body .header.header23{
+	background:{color};
+}
+.header.header23 ul.nav>li>a.active{
+	color:#fff;
+}
+body .header.header15 .navbar-default .navbar-nav>li.buy-now>a:hover{
+	background: #fff;
+    color:{color};
+}
+/** Sections **/
+.featured_section1 h3{
+	border-right: 3px solid {color};
+}
+.featured_section1 .one_third i:hover{
+	color: {color};
+}
+.featured_section2 .one_fourth_less:hover .button.two, .featured_section2 .one_fourth_less.active .button.two{
+	color: {color};
+}
+.featured_section3 strong{
+	color: {color};
+}
+
+.featured_section6 .one_fourth i{
+	color: {color};
+}
+
+.featured_section7 .one_half.right i:hover, .featured_section7 .one_half.left i:hover{
+	color: {color};
+}
+.featured_section9{
+	background-color: {color};
+}
+
+.pricingtable9 strong, .pricingtable9 b{
+	color: {color};
+}
+
+.featured_section11 .bdate{
+	background-color: {color};	
+}
+
+.featured_section63 .one_half .element-icon{
+	color: {color};
+}
+.detached2.tabs > ul > li.current{
+	border-bottom:2px solid {color};
+	color: {color};
+}
+.featured_section15 .one_third .element-icon{
+	color: {color};
+}
+.featured_section66 .pricbox .title strong{
+	color: {color};
+}
+.featured_section66 .pricbox .title.highlight{
+	background: {color};
+}
+.featured_section66 .pricbox .title strong sup{
+	color: {color};
+}
+.footer_social_links3.styltwo li a i:hover{
+	color: {color};
+}
+.top_section2 .right .tinfo a:hover {
+	color: {color};
+}
+.featured_section32 .element-icon{
+	color: {color};
+}
+.featured_section33, .featured_section38{
+	background: {color};
+}
+.parallax_section6 i:hover{
+	color: {color};
+	border:1px solid {color};
+}
+.featured_section37 .ibox:hover i, .footer_social_links3 li a i:hover{
+	color: {color};
+}
+.featured_section26 i{
+	color: {color};
+}
+.featured_section27 .onecol_thirtyfive.left i, .featured_section27 .onecol_thirtyfive.right i{
+	background: {color};
+}
+
+.parallax_section4 .one_fourth:hover .outline {
+	border: 2px solid {color};
+}
+.parallax_section4 .one_fourth:hover .circle {
+	background: {color};
+}
+.featured_section29 .highlight{
+	background: {color};
+	border:7px solid rgba(0,0,0,0.1);
+}
+.featured_section31{
+	background: {color};
+}
+.footer_social_links4 a i:hover{
+	color: {color};
+}
+.parallax_section9 i{
+	color: {color};
+}
+.parallax_section9 i:hover {
+	background: {color};
+}
+.featured_section52{
+	background: {color};
+}
+.featured_section56 i:hover{
+	color: {color};
+	border:1px solid {color};
+}
+.featured_section3.two strong{
+	color: {color};
+}
+.featured_section62 .bcont i{
+	background: {color};
+}
+.newsletter1 .input_submit{
+	background: {color};
+}
+body .featured_section77 .testimo.highlight, .featured_section77.two .testimo.highlight{
+	border:1px solid {color};
+	background: {color};
+}
+.featured_section77 .lbt strong, .featured_section77 b, .parallax_section10 .one_fourth p, .featured_section77.two .lbt strong, .featured_section77.two b{
+	color: {color};
+}
+.featured_section77 .testimo.highlight .lbt strong, .featured_section77.two .testimo.highlight .lbt strong{
+	background: {color};
+}
+.featured_section81 .box:hover{
+	background: {color};
+}
+.featured_section81 .box:hover .element-icon {
+	color: #FFF;
+}
+.featured_section82{
+	background: {color};
+}
+
+.parallax_section17 a{
+	background: {color};	
+}
+.parallax_section17 a:hover, .parallax_section10 .one_fourth i:hover{
+	color: {color};	
+}
+.featured_section40 i{
+	color:{color};
+}
+.featured_section40.two i{
+	background: {color};
+}
+body .entry-content .newsletter2 .input_submit{
+	background: {color};
+}
+body .newsletter2 .input_submit:hover {
+	background-color: #454545;
+}
+#slider-outline .sl-div.light, #slider-outline .sl-div, #slider-outline, .testi14 #slider-outline .sl-div, .testi14 #slider-outline .sl-div.light{
+	background: {color};
+}
+body .navbar-default .navbar-nav>li.buy-now>a{
+	color: {color};
+    border: 2px solid {color};
+}
+body .navbar-default .navbar-nav>li.buy-now>a:hover{
+	background: {color};
+	border: 2px solid {color};
+}
+.ls-slide .sbut9:hover, .ls-preview .sbut9:hover {
+    background: {color}!important;
+}
+.featured_section103 .container .box i{
+	color: {color};
+    border: 2px solid {color};
+}
+.featured_section103 .container .box a, .featured_section105 .one_half strong{
+	color: {color};
+}
+.footer7.two{
+	border-top:10px solid {color};
+}
+footer.two .newsletter3 .input_submit, footer.two .footer_social_links li a i{
+	background: {color};
+}
+footer .newsletter3 .input_submit:hover {
+	background-color: #454545;
+}
+
+.parallax_section7 .two, .pricingtable10 span{
+	background: {color};
+}
+.pricingtable10 strong, .featured_section44 h2 b{
+	color: {color};
+}
+.menu_rlinks7 a{
+	background: {color};
+}
+.featured_section108 i,.featured_section109 li i{
+	color: {color};
+}
+.featured_section108 .one_fifth:hover,.featured_section40.three i:hover {
+	background: {color};
+}
+.featured_section83 h4{
+	background: {color};
+}
+.featured_section86 a i:hover , .featured_section94 .right .box:hover{
+	background: {color};
+}
+body .header.header14 .navbar-default .navbar-nav>li.buy-now>a{
+	color:#fff;
+	background: {color};
+}
+.featured_section95 i, .featured_section98 .box.highlight, .button.twentyfour, .featured_section99{
+	background: {color};
+}
+.featured_section98 .box .title h3 strong{
+	color: {color};
+}
+
+body .header.header15 .navbar-default .navbar-nav>li.buy-now>a{
+	background: {color};
+	color:#fff;
+}
+.parallax_section14 .box i{
+	color: {color};
+}
+.featured_section91 .one_fourth .persoci i{
+	background: {color};
+}
+.king-testi-456 .item i, .king-testi-456 .item .who strong{
+	color: {color};
+}
+.footer7{
+	border-top: 10px solid {color};
+}
+body .newsletter3 .input_submit, .footer_social_links.two li a i{
+	background: {color};
+}
+.featured_section115 .element-icon{
+	color: {color};
+}
+.featured_section118 .slidesec .element-icon:hover{
+	background: {color};
+    border: 1px solid {color};
+}
+.featured_section21 .container .box a, .featured_section21.king-innerRow-container .box a{
+	color: {color};
+}
+.title24 .topline, .title25 .line{
+	background: {color};
+}
+.parallax_section3 .left .king-elements:hover .element-icon, .parallax_section3 .right .king-elements:hover .element-icon{
+	background: {color};
+}
+.featured_section24 .one_half.last a{
+	color: {color};
+}
+.featured_section25, .featured_section101 .box, .featured_section111 .box{
+	background: {color};
+}
+.footer7.three {
+    border-top: 10px solid {color};
+}
+footer.three .newsletter3 .input_submit, footer.three .footer_social_links li a i{
+	background: {color};
+}
+.featured_section112 .onecol_thirtyfive.left i:hover, .featured_section112 .onecol_thirtyfive.right i:hover{
+	background: {color};
+}
+.onepage1 .logoopv1{
+	background: {color};
+}
+.onepage1 .nav-collapse a:active,.onepage1  .nav-collapse a:hover,.onepage1  .nav-collapse .active a{
+	color:{color};
+}
+.detached.tabs.two > ul > li.current{
+	border-bottom: 2px solid {color};
+    color: {color};
+}
+.featured_section66.three .pricbox .title.highlight{
+	background: {color};
+}
+.featured_section66.three .pricbox .title strong, .featured_section66.three .pricbox .title strong sup{
+	color: {color};
+}
+.featured_section209 .box span{
+	background: {color};
+}
+.featured_section210 h3{
+	color: {color};
+}
+.featured_section211 .button.twentyone{
+	color: {color};
+    border: 1px solid {color};
+}
+.featured_section211 .button.twentyone:hover, .featured_section212 .ctitle{
+	background: {color};
+	color: #fff;
+}
+body .ovt_section06 .but, body .featured_section82.two{
+	background: {color};
+}
+.gray-testi #slider-outline .sl-div.light, .gray-testi #slider-outline, .gray-testi #slider-outline .sl-div{
+	background: {color};
+}
+.featured_section201 .element-icon, .featured_section202 h2{
+	color:{color};
+}
+.featured_section203 .box:hover .box-details, .featured_section203 .highlight .box .box-details{
+	background: {color};
+}
+.title34, .featured_section15.two .one_third .element-icon{
+	color: {color};
+}
+.featured_section205 .element-icon{
+	color: {color};
+	border: 1px solid {color};
+}
+.featured_section208 a i{
+	background: {color};
+}
+.featured_section203 .box-details{
+	background: {color};
+}
+.stcode_title13{
+	color: {color};
+    border-color: {color};
+}
+.featured_section125 .one_third i:hover{
+	background: {color};
+}
+.featured_section127 .date, body .domserch .inpubmit{
+	background: {color};
+}
+.domserch .box{
+	color:{color};
+}
+h1.roboto.lbtcolor, h2.roboto.lbtcolor, h3.roboto.lbtcolor, h4.roboto.lbtcolor, h5.roboto.lbtcolor, h6.roboto.lbtcolor{
+	color: {color};
+}
+.featured_section130 .pacgbox b{
+	color:{color};
+}
+.featured_section92.two .acc-trigger a:hover, .featured_section92.two .item i, .featured_section92.two .item .who strong{
+	color:{color};
+}
+.pritable.stwo .pacdetails.highlight .title strong{
+	color:{color};
+}
+.pritable.stwo .pacdetails.highlight .bottom a{
+	background: {color};
+}
+.featured_section133 h1{
+	color: {color};
+}
+.pritable .pacdetails.highlight .title h6{
+	background-color: {color};
+}
+.featured_section130 .pacgbox a.but:hover{
+	background:{color};
+}
+.pritable.stwo .pacdetails.highlight{
+	box-shadow: 0 -5px 0 {color};
+}
+.stcode_title14 .line{
+	background: {color};
+}
+.featured_section137.sty2 .box strong, .counters11 i{
+	color:{color};
+}
+.featured_section140 .box a:hover{
+	color:#fff!important;
+	background: {color}!important;
+}
+.featured_section140 .box i:hover{
+	color:#fff;
+	background: {color};
+}
+.stcode_title14 .line{
+	background: {color};
+}
+.featured_section141 .box{
+	border-top:3px solid {color};
+}
+.featured_section142 .addes em a{
+	color:{color};
+}
+.featured_section143 .box{
+	background:{color};
+}
+.featured_section143 .box .box2{
+	background:rgba(0,0,0,0.1);
+	border-right:1px solid {color};
+}
+.top_section3 .right .tinfo a:hover{
+	background:{color};	
+}
+.featured_section134 .one_third i{
+	background:{color};
+}
+.featured_section135{
+	background:{color};
+}
+.featured_section136 .box:hover i{
+	background:{color};
+}
+.featured_section137 .box strong{
+	color:{color};
+}
+.featured_section92.three * a, .featured_section92.three .acc-trigger a:hover, .featured_section92.three .item i, .featured_section92.three .item .who strong{
+	color:{color};
+}
+.featured_section76.two .king-spoiler-style2 .acc-trigger a:hover{
+	color:{color};
+}
+.featured_section15.colored .one_third .element-icon, .big_text1 i{
+	color:{color};
+}
+.featured_section69 .box:hover i{
+	color:{color};
+}
+.featured_section91 .one_fourth .persoci i.two:hover{
+	background: {color};
+}
+.fati4{
+	background:{color};
+}
+#wp-calendar th, a.but_goback{
+	background:{color};
+}
+.error_pagenotfound em{
+	color:{color};
+}
+.but_medium1, .no-touch .cd-timeline-content .cd-read-more:hover, .cd-timeline-content .cd-date strong, .cd-timeline-content .cd-date b{
+	background:{color};
+}
+.cd-timeline-content h2{
+	color:{color};
+}
+.cd-timeline-content .cd-date strong::after{
+	border-color:rgba(47, 146, 238, 0) {color} rgba(47, 146, 238, 0) rgba(47, 146, 238, 0)
+}
+.cd-timeline-content .cd-date b::after{
+	border-color:rgba(47, 146, 238, 0) rgba(47, 146, 238, 0) rgba(47, 146, 238, 0) {color};
+}
+.small_social_links li i{
+	color:{color};
+}
+.stcode_title5 .line, .stcode_title4 .line,.stcode_title7 .line {
+	background:{color};
+}
+.stcode_title12 h2{
+	color:{color};
+}
+body .but_small1 {
+	background-color: {color};
+}
+body .but_small1.gray:hover {
+	background-color: {color};
+}
+body .but_small3 {
+	background-color: {color};
+}
+body .but_small2 {
+	background-color: {color};
+}
+body .but_small4 {
+	background-color: {color};
+}
+body .but_small5 {
+	color: {color};
+	border: 2px solid {color};
+}
+body .but_small5.light:hover {
+	color: {color};
+}
+body .but_small5.light2:hover {
+	color: {color};
+}
+
+body .but_medium1 {
+	background-color: {color};
+}
+body .but_medium3 {
+	background-color: {color};
+}
+body .but_medium2 {
+	background-color: {color};
+}
+.but_medium4 {
+	background-color: {color};
+}
+.but_medium5 {
+	color: {color};
+	border: 2px solid {color};
+}
+
+.but_large1 {
+	background-color: {color};
+}
+.but_large1.small {
+	background-color: {color};
+}
+.but_large3 {
+	background-color: {color};
+}
+.but_large2 {
+	background-color: {color};
+}
+.but_large4 {
+	background-color: {color};
+}
+.but_large4.white {
+	color: {color};
+}
+.but_large5 {
+	color: {color};
+	border: 2px solid {color};
+}
+.but_full2 .butprogress {
+	background: {color};
+}
+.counters2 i, .counters4{
+	color: {color};
+}
+
+.flips2_back{
+	background-color: {color};
+}
+.blog_post h3 a{
+	color: {color};
+}
+.sharepost li{
+	background-color: {color};
+}
+
+/***WOO***/
+body .woocommerce-page .button, .woocommerce-tabs ul.tabs li.active, .woocommerce-tabs ul.tabs li:hover{
+	background:{color}!important;
+}
+#searchform #searchsubmit, .woocommerce-product-search input[type="submit"], .woocommerce span.onsale, .woocommerce-page span.onsale{
+	background:{color};
+}
+.single-product .price ins span{
+	color: {color};
+}
+.woocommerce #content div.product form.cart .button, .woocommerce div.product form.cart .button, .woocommerce-page #content div.product form.cart .button, .woocommerce-page div.product form.cart .button{
+	background:{color}!important;
+}
+.woocommerce .woocommerce-message, .woocommerce-page .woocommerce-message, .woocommerce .woocommerce-info{
+	border:1px solid {color}!important;
+}
+.featured_section128 a{
+	background:{color};
+}
+.featured_section128 strong{
+	color:{color};
+}
+.featured_section14{
+	background:{color};
+}
+
+.hexagon:hover {
+	background: {color};
+}
+.hexagon:hover:before {
+	border-bottom: 45px solid {color};
+}
+.hexagon:hover:after {
+	border-top: 45px solid {color};
+}
+.featured_section19 .text h2{
+	color:{color};
+}
+.parallax_section2 .but{
+	color:{color};
+}
+.featured_section27 .onecol_thirtyfive.left i:hover, .featured_section27 .onecol_thirtyfive.right i:hover{
+	background:#fff;
+	color:{color};
+	border:1px solid {color};
+}
+.menu_rlinks #king-top-nav a:hover, .top_section .right a:hover{
+	color:{color};
+}
+.top_section .topsocial li a:hover {
+	background: {color};
+}
+.featured_section42 .left h1 strong{
+	color:{color};
+}
+.featured_section43 .element-icon:hover{
+	color:{color};
+}
+.featured_section85 .liwbt li i:hover{
+	color:{color};
+}
+.featured_section114{
+	background: {color};
+}
+.cforms.three input, .cforms.three textarea{
+	background: {color};
+}
